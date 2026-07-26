@@ -17,7 +17,7 @@ API testing, and CI/CD.
 | Version Control | Git, GitHub |
 
 ## Portfolio Artifacts
-- [-] Day 2 — Login test cases (Excel)
+- [X] Day 2 — Login test cases (Excel)
 - [ ] Day 3 — Bug reports with screenshots
 - [ ] Day 4 — Test plan document
 - [ ] Day 6 — TestRail export
