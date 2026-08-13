@@ -18,10 +18,10 @@ API testing, and CI/CD.
 
 ## Portfolio Artifacts
 - [X] Day 2 — Login test cases (Excel)
-- [ ] Day 3 — Bug reports with screenshots
+- [X] Day 3 — Bug reports with screenshots
 - [ ] Day 4 — Test plan document
-- [ ] Day 6 — TestRail export
-- [ ] Day 8 — Jira project + Confluence page
+- [X] Day 6 — TestRail export
+- [X] Day 8 — Jira project + Confluence page
 - [ ] Day 16 — Selenium login script (Python)
 - [ ] Day 18 — Postman collection
 - [ ] Day 20 — Playwright test
