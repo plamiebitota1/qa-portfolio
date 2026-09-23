@@ -1,16 +1,15 @@
 # QA Portfolio — Plamedie Bitota
 
 Computer Science student (finishing Fall 2026) transitioning into 
-software quality assurance. This portfolio was built during a 
-30-day intensive QA curriculum covering manual testing, automation, 
-API testing, and CI/CD.
+software quality assurance. This portfolio was built by researching in-demand QA skills in today's job market and 
+designing a self-directed curriculum covering manual testing, automation, API testing, and CI/CD.
 
 ## Skills
 | Area | Tools |
 |---|---|
 | Manual Testing | Test case writing, bug reporting, test plans |
 | Test Management | Jira, TestRail, Confluence |
-| Automation | Selenium (Python), Playwright |
+| Automation | Selenium (Java), Playwright |
 | API Testing | Postman |
 | Database | SQL |
 | CI/CD | GitHub Actions |
@@ -22,7 +21,7 @@ API testing, and CI/CD.
 - [ ] Day 4 — Test plan document
 - [X] Day 6 — TestRail export
 - [X] Day 8 — Jira project + Confluence page
-- [ ] Day 16 — Selenium login script (Python)
+- [X] Day 16 — Selenium login script (Java)
 - [ ] Day 18 — Postman collection
 - [ ] Day 20 — Playwright test
 - [ ] Day 21 — GitHub Actions CI pipeline
